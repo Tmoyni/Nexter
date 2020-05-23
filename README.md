@@ -1,3 +1,3 @@
 # Nexter
 
-to run: npm run start
+to run: npm start

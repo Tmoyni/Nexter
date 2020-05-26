@@ -32,7 +32,7 @@
         font-size: 1.6rem;
         color: $color-grey-light-2;
 
-        &::before, 
+        &::before,
         &::after {
             content: "";
             height: 1px;
@@ -46,6 +46,7 @@
         grid-template-columns: repeat(4, 1fr);
         grid-column-gap: 3rem;
         justify-items: center;
+        align-items: center;
 
         img {
             max-height: 2.5rem;
@@ -53,5 +54,4 @@
             filter: brightness(70%);
         }
     }
-
 }

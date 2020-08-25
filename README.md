@@ -2,12 +2,12 @@
 
 Nexter is a mockup of a real estate website to practice CSS Grid and flexbox concepts.
 
-SASS
-BEM (Block Element Modifier) Method
-Transitions
-CSS variables
-Gradients
-CSS Grid
+- SASS
+- BEM (Block Element Modifier) Method
+- Transitions
+- CSS variables
+- Gradients
+- CSS Grid
 
 to run: npm start
 
